@@ -1,0 +1,16 @@
+{
+  "name": "fg",
+  "version": "1.0.0",
+  "description": "Analysing the Firefly Board Game",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Michal Paszkiewicz",
+  "license": "MIT",
+  "devDependencies": {
+    "browserify": "^13.1.1",
+    "tsify": "^2.0.7",
+    "typescript": "^2.1.4"
+  }
+}
